@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Pic Scramble</string>
+    <string name="action_settings">Settings</string>
+    <string name="game_will_start_in_15_seconds">Game will start in 15 Seconds</string>
+    <string name="something_went_wrong">Something went wrong.</string>
+    <string name="loading_pictures">Loading pictures...</string>
+    <string name="pic_scramble">Pic Scramble</string>
+    <string name="image">image</string>
+    <string name="find_below_image_from_the_grid">Find below image from the grid</string>
+</resources>
